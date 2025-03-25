@@ -3,11 +3,8 @@
 @tailwind utilities;
 
 @layer base {
-    @font-face {
-        font-family: 'Punkaholic';
-        font-style: normal;
-        font-weight: bold;
-        font-display: swap;
-        src: url(./fonts/punkaholic-bold.ttf) format('truetype');
+    :root {
+        --color-primary: 142 228 179;
+        --color-secondary: 139 219 238;
     }
 }

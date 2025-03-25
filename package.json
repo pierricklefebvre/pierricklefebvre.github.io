@@ -1,8 +1,8 @@
 {
-  "scripts": {
-    "build": "npx tailwindcss -i ./docs/assets/index.css -o ./docs/assets/global.css"
-  },
-  "devDependencies": {
-    "tailwindcss": "^3.4.3"
-  }
+    "scripts": {
+        "build": "npx tailwindcss -i ./docs/assets/index.css -o ./docs/assets/global.css"
+    },
+    "devDependencies": {
+        "tailwindcss": "^3.4.3"
+    }
 }
